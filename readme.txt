@@ -5,4 +5,4 @@ See the difference.
 
 Added GPL.
 
-Git is a free software.
+Git is really a free software.
