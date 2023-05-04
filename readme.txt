@@ -6,3 +6,5 @@ See the difference.
 Added GPL.
 
 Git is really a free software.
+
+added from ccc PC.
