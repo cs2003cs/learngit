@@ -7,9 +7,13 @@ Added GPL.
 
 Git is really a free software.
 
+
 Create a new branch called dev on mizen Mac.
 
 
 create a conflict 1. But added something more!
 
 hello again.
+
+added from ccc PC.
+
